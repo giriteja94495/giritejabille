@@ -1,0 +1,114 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+
+}
+
+nav{
+    float:right;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-family: 'Consolas';
+    font-size: 1.1em;
+    line-height: 1.3em;
+    color: #333;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+p1 {
+    font-family: 'Consolas';
+    font-size: 0.9em;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+.main_page_left{
+    float:left;
+    width:40%;
+    position: relative;
+}
+
+.main_page_right{
+    width:60%;
+    position: relative;
+    float: right;
+}
+
+.col_2_lt{
+    width:46%;
+    position: relative;
+    float: left;
+}
+
+.col_2_rt{
+    width:46%;
+    position: relative;
+    float: right;
+}
+
+.marki{
+    font-family: 'Consolas';
+}
+
+.sub_heading{
+    font-size: 1.3em;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-family: 'Consolas';
+}
+
+ul {
+    font-family:'Consolas';
+    font-size: 1.1em;
+    line-height: 1.3em;
+    color: #333;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.pop{
+    width: 400px;
+    height: 400px;
+}
+.butt{
+    margin-top: 5px;
+}
+.photo{
+    width: 50%;
+    height: 55%;
+}
