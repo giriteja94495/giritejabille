@@ -1,4 +1,3 @@
-# giritejabille
-You can find the simple portfolia design 
-I developed it using HTML5 and CSS and little bootstrap 4
-https://giriteja94495.github.io/giritejabille/index.html
+# GiriTeja Bille — Portfolio
+Personal portfolio built with vanilla HTML, CSS & JS. Dark theme, aurora background, and a bunch of scroll/motion interactions.
+Live at https://giriteja94495.github.io/giritejabille/
