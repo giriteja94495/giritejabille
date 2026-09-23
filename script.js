@@ -37,10 +37,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const roles = [
     'Applied AI Engineer @ Google',
+    'Ad Tech · Algorithms & DSA',
     'LLM & ML Enthusiast',
     'Full-Stack Web Developer',
     'Competitive Programmer',
-    "Bug-free? Let's find out",
   ];
   const typedEl = document.getElementById('typed');
   let roleIdx = 0, charIdx = 0, deleting = false;
